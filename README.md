@@ -58,7 +58,7 @@ Read-Only Functions
 
 ---
 
-## 🛠️ Deployment
+ Deployment
 
 You can deploy the contract using Clarinet or the Stacks CLI.
 
